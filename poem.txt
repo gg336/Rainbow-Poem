@@ -7,9 +7,10 @@ Blue
 Green
 Red
 Yellow
+... do I see a golden pony?
+Cyan
+of all different shades!
 These are the colors of the rainbow...
-
-
 And the Unicorn has colors too!
 
 - From the Coding Train

@@ -1,13 +1,17 @@
-The Rainbow
+The Rainbow and the Golden Ponies
 ---------------------------
 Purple
 Pink
 Orange
 Blue 
 Green
-Red
-Yellow
+Gold
+Golden
+Ponies
+Red Pony
+Yellow Pony
 These are the colors of the rainbow...
+And those red-yellow Golden Ponies.
 
 
 - From the Coding Train

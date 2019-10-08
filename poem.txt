@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow, the Unicorn, and the Golden Ponies
 ---------------------------
 Purple
 Pink
@@ -7,9 +7,12 @@ Blue
 Green
 Red
 Yellow
+those red-yellow Golden Ponies
+And the Unicorn has colors too
 These are the colors of the rainbow...
 
 
-And the Unicorn has colors too!
+
+
 
 - From the Coding Train

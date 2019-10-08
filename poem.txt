@@ -5,10 +5,11 @@ Pink
 Orange
 Blue 
 Green
-Unicorn
 Red
 Yellow
 These are the colors of the rainbow...
-And the Unicorn
+
+
+And the Unicorn has colors too!
 
 - From the Coding Train

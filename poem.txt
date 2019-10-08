@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 ---------------------------
 Purple
 Pink
@@ -9,5 +9,7 @@ Red
 Yellow
 These are the colors of the rainbow...
 
+
+And the Unicorn has colors too!
 
 - From the Coding Train
